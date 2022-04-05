@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32319.34
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stopwatch.ConsoleApp", "Stopwatch.ConsoleApp\Stopwatch.ConsoleApp.csproj", "{62AD6EE5-D0E7-43E2-8B2A-3BD16761120C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{03B2F8BC-F56A-44E4-B041-2A4946519C7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{62AD6EE5-D0E7-43E2-8B2A-3BD16761120C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62AD6EE5-D0E7-43E2-8B2A-3BD16761120C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62AD6EE5-D0E7-43E2-8B2A-3BD16761120C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03B2F8BC-F56A-44E4-B041-2A4946519C7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03B2F8BC-F56A-44E4-B041-2A4946519C7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03B2F8BC-F56A-44E4-B041-2A4946519C7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03B2F8BC-F56A-44E4-B041-2A4946519C7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
